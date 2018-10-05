@@ -40,11 +40,11 @@ body {
 
 .navbar-toggle {
     position: absolute;
-    top: 5px;
+    top: 0px;
     right: 20px;
     cursor: pointer;
     color: rgba(255,255,255,0.8);
-    font-size: 45px;
+    font-size: 55px;
 }
 
 .active {
